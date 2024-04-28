@@ -1,0 +1,1359 @@
+body{
+    display: block;
+    gap: 50px;
+    height: 1000px;
+   
+}
+button{
+   
+    border-radius: 5px;
+    width: 50%;
+    height: 10%;
+    background-color: rgb(240, 231, 231);
+}
+label{
+    display: grid;
+    gap: 40%;
+}
+.topnav {
+    background-color: #db3ace;
+    background-size: 15%;
+    height: 9%;
+    border-radius: 5px;
+    width: 1793px;
+    margin-left: 5px;
+    justify-content: space-around;
+
+}
+.topnav.a{
+    font-size: 20px;
+    margin-bottom: 35%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+
+}
+nav a{
+    margin-top: 2%;
+}
+
+
+
+
+.required{
+    width: 30%;
+    
+}
+.herotext{
+    display: flex;
+    word-spacing: 3px;
+}
+.quote{
+    width: 1000px;
+    font-size: 25px;
+    background-color:  rgb(255,0,255) ;
+    height: 920px;
+    
+
+}
+.details{
+    width: 900px;
+    font-size: 20px;
+    float: left;
+    justify-content: space-between;
+    justify-content: center;
+    padding: 2%;
+    padding-right:10% ;
+}
+.mentorshp{
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 30%;
+
+}
+.born{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    gap: 20%;
+    justify-content: space-between;
+    word-spacing: 10px;
+}
+
+.born-a-crime-summary{
+    font-size: 20px;
+}
+
+
+.website{
+    display: flex;
+    height: 900px;
+}
+.mentorship-session{
+    height: 650px;
+    width: 750px;
+    
+
+}
+.mentor{
+    width: 500px;
+    height: 500px;
+  justify-content: center;
+  border-radius: 90%;
+  margin-top: 5px;
+  margin-left: 20%;
+  
+
+}
+.ment{
+    text-align: center;
+    font-size: 40px;
+}
+.session{
+    width: 950px;
+    background-color:  rgb(238, 216, 235);
+    height: 900px;
+    margin-bottom: 2%;
+ 
+}
+.profile{
+
+    height: 900px;
+    width: 900px;
+    background-color:white;
+    font-weight: 100;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+
+}
+
+.personal-details{
+    display: flex;
+    
+    justify-content: flex-start;
+    word-spacing: 5px;
+}
+.personal{
+    font: 300;
+    font-weight: 100;
+    font-size: 25px;
+    text-emphasis-color: rgb(219, 25, 193);
+
+    text-align: justify;
+}
+
+.personal2{
+    padding-right: 10px;
+}
+.logo{
+    width: 500px;
+    height: 500px;
+    margin-left: 90px;
+}
+.word{
+    font-size: 30px;
+    word-spacing: normal;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    word-spacing: 5px;
+    background-color:white ;
+    font-size: 20px;
+    box-shadow: inset;
+    background-size: 30px;
+    border: #d136c4;
+    background-size: 20px;
+    margin-top: 10px;
+    
+}
+
+
+.prof{
+    width: 120px;
+    height: 120px;
+    margin-left: 35%;
+    margin-bottom: 30%;
+    padding-top: 20px;
+}
+
+
+
+  
+  #todo-app {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d136c4;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 90px;
+    height: 600px;
+    
+  }
+
+  #todo-form input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border: 2px solid #dfdada;
+    border-radius: 4px;
+    margin-right: 8px;
+  }
+  
+  #todo-form button {
+    padding: 10px 15px;
+    background-color: #ee7dd2;
+    color: rgb(158, 36, 36);
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 20%;
+  }
+  
+  #todo-form button:hover {
+    background-color: #f5b0ec;
+   
+  }
+
+  #todo-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #todo-list li {
+    background-color: #f7eeee;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .goals{
+    display: flex;
+  }
+
+.novel{
+    margin-bottom: 30%;
+    padding-bottom: 50%;
+    margin-top: 20%;
+}
+
+.footer{
+    width: 70%;
+    height: 60px;
+    background-color: #d136c4;
+    border-radius: 10px;
+
+}
+
+.information{
+    justify-content: center;
+    margin-left: 90px;
+    padding-left: 40%;
+    padding-bottom: 50%;
+}
+.lowertext{
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+}
+.topnav{
+    height: 80px;
+}
+.motivate{
+    text-align: center;
+    color: white;
+}
+.tasks{
+    background-color: gray;
+  
+}
+.page{
+    background-color: gray;
+}
+.input{
+    width: 70%;
+    height: 30px;
+    border-color: #d46acc;
+    border-radius: 5px;
+}
+
+
+
+
+  @media screen and ( min-width:280px ) and (max-width:400px){
+
+
+    body{
+        display: block;
+        gap: 50px;
+        height: 1000px;
+
+
+
+        gap: 30px;
+        height: 600px;
+       
+    }
+    .navlogo{
+        width: 40px;
+        height: 40px;
+    }
+    button{
+       
+        border-radius: 5px;
+        width: 70%;
+        height: 10%;
+        background-color: rgb(240, 231, 231);
+    }
+    label{
+        display: grid;
+        gap: 40%;
+    }
+    .topnav{
+        background-color: #db3ace;
+        background-size: 15%;
+        margin-top: 1%;
+        height: 9%;
+        border-radius: 5px;
+        width: 1820px;
+        margin-left: 10px;
+
+
+
+
+
+
+        width: 335px;
+        display: grid;
+        grid-template-rows:auto auto auto auto auto auto ;
+        height: 5%;
+        margin-left: 8px;
+        
+    }
+    .topnav.a{
+        font-size: 20px;
+        margin-top: 15%;
+        gap: 20%;
+        margin-left: 10%;
+
+
+        gap: 10%;
+        font-size: 15px;
+    }
+    
+    
+    
+    
+    .required{
+        width: 30%;
+        
+    }
+    .herotext{
+        display: flex;
+        word-spacing: 3px;
+    }
+    .quote{
+        width: 1000px;
+        font-size: 25px;
+        background-color:  rgb(255,0,255) ;
+        height: 920px;
+
+        width: 500px;
+        height: 450px;
+        
+    
+    }
+    .details{
+        width: 900px;
+        font-size: 20px;
+        float: left;
+        justify-content: space-between;
+        justify-content: center;
+        padding: 2%;
+        padding-right:10% ;
+
+        width: 500px;
+        font-size: 15px;
+    }
+    .mentorshp{
+        width: 250px;
+        height: 300px;
+        border-radius: 5px;
+        margin-left: 30%;
+    
+    }
+    .born{
+        display: flex;
+
+        flex-wrap: wrap;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+        gap: 25px;
+        justify-content: space-between;
+        word-spacing: 20px;
+    }
+    
+    .born-a-crime-summary{
+        font-size: 20px;
+
+        font-size: 14px;
+    }
+    
+    
+    .website{
+        display: flex;
+        height: 900px;
+
+        flex-wrap: wrap;
+        height: 500px;
+    }
+    .mentorship-session{
+        height: 750px;
+        width: 750px;
+
+        height: 650px;
+        width: 350px;
+        
+    
+    }
+    .mentor{
+        width: 500px;
+        height: 500px;
+      justify-content: center;
+      border-radius: 90%;
+      margin-top: 5px;
+      margin-left: 20%;
+
+
+
+      width: 200px;
+      height: 200px;
+      
+    
+    }
+    .ment{
+        text-align: center;
+        font-size: 40px;
+
+        font-size: 25px;
+    }
+    .session{
+        width: 950px;
+        background-color:  rgb(238, 216, 235);
+        height: 900px;
+        margin-bottom: 2%;
+
+
+        width: 400px;
+        height: 450px;
+     
+    }
+    .profile{
+    
+        height: 900px;
+        width: 900px;
+        background-color:white;
+        font-weight: 100;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        float: right;
+
+
+        height: 400px;
+        width: 400px;
+    
+    }
+    
+    .personal-details{
+        display: flex;
+        justify-content: space-evenly;
+
+        
+    }
+    .personal{
+        font: 300;
+        font-weight: 100;
+        font-size: 25px;
+        text-emphasis-color: rgb(219, 25, 193);
+    }
+    .logo{
+        width: 500px;
+        height: 500px;
+        margin-left: 90px;
+        width: 300px;
+        height: 300px;
+    }
+    .word{
+        font-size: 30px;
+        word-spacing: normal;
+        color: white;
+    }
+    
+    nav{
+        display: flex;
+        justify-content: space-between;
+        word-spacing: 5px;
+        background-color:white ;
+        font-size: 13px;
+        box-shadow: inset;
+        background-size: 30px;
+        border: #d136c4;
+        background-size: 20%;
+        margin-top: 10px;
+        flex-wrap: wrap;
+        
+    }
+    
+    
+    .prof{
+        width: 120px;
+        height: 120px;
+        margin-left: 35%;
+        margin-bottom: 30%;
+        padding-top: 20px;
+
+
+
+        width: 70px;
+        height: 70px;
+    }
+    
+    
+    
+      
+      #todo-app {
+        width: 80%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 10px;
+        background-color: #d136c4;
+        border-radius: 16px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-top: 90px;
+        height: 600px;
+
+
+
+
+        height: 350px;
+        
+      }
+    
+      #todo-form input[type="text"] {
+        width: 50%;
+        padding: 10px;
+        border: 2px solid #dfdada;
+        border-radius: 4px;
+        margin-right: 6px;
+      }
+      
+      #todo-form button {
+        padding: 7px 10px;
+        background-color: #ee7dd2;
+        color: white;
+        border: none;
+        border-radius: 9px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        width: 90px;
+      }
+      
+      #todo-form button:hover {
+        background-color: #f5b0ec;
+       
+      }
+    
+      #todo-list {
+        list-style: none;
+        padding: 0;
+      }
+      
+      #todo-list li {
+        background-color: #f7eeee;
+        margin-top: 10px;
+        padding: 10px;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+
+        flex-wrap: wrap;
+      }
+    
+      .goals{
+        display: flex;
+      }
+    
+    .novel{
+        margin-bottom: 30%;
+        padding-bottom: 50%;
+        margin-top: 20%;
+    }
+    
+    .footer{
+        width: 70%;
+        height: 60px;
+        background-color: #d136c4;
+        border-radius: 10px;
+
+        width: 40%;
+        height: 35px;
+    
+    }
+    
+    .information{
+        justify-content: center;
+        margin-left: 90px;
+        padding-left: 40%;
+        padding-bottom: 50%;
+    }
+    .lowertext{
+        font-size: 30px;
+        justify-content: center;
+        text-align: center;
+    }
+    .topnav{
+        height: 80px;
+    }
+    .motivate{
+        text-align: center;
+        color: white;
+    }
+    .tasks{
+        background-color: gray;
+      
+    }
+    .page{
+        background-color: gray;
+        height: 900px;
+    }
+    .input{
+        width: 70%;
+        height: 30px;
+        border-color: #d46acc;
+        border-radius: 5px;
+
+
+        width: 40%;
+        height: 15px;
+    }
+    p{
+        font-size: 18px;
+    }
+    
+
+
+     }
+
+     @media screen and ( min-width:400px ) and (max-width:896px){
+        body{
+            display: block;
+            gap: 50px;
+            height: 1000px;
+
+
+            height: 500px;
+           
+        }
+        button{
+           
+            border-radius: 5px;
+            width: 50%;
+            height: 10%;
+            background-color: rgb(240, 231, 231);
+        }
+        label{
+            display: grid;
+            gap: 40%;
+        }
+        .topnav {
+            background-color: #db3ace;
+            background-size: 15%;
+            height: 9%;
+            border-radius: 5px;
+            width: 1793px;
+            margin-left: 5px;
+            justify-content: space-around;
+            display: flex;
+            flex-wrap: wrap;
+
+            width: 400px;
+            background-size: 10%;
+            flex-wrap: wrap;
+            
+        
+        }
+        .topnav.a{
+            font-size: 20px;
+            margin-bottom: 35%;
+            display: flex;
+            justify-content: space-around;
+            margin-left: 10%;
+
+            font-size: 10px;
+
+            
+        
+        }
+        nav.prof{
+            margin-top: 2%;
+        }
+        
+        
+        
+        
+        .required{
+            width: 30%;
+            
+        }
+        .herotext{
+            display: flex;
+            word-spacing: 3px;
+
+           flex-wrap: wrap;
+           word-spacing: 2px;
+
+        }
+        .quote{
+            width: 1000px;
+            font-size: 25px;
+            background-color:  rgb(255,0,255) ;
+            height: 920px;
+
+            width: 500px;
+            height: 780px;
+            
+        
+        }
+        .details{
+            width: 900px;
+            font-size: 20px;
+            float: left;
+            justify-content: space-between;
+            justify-content: center;
+            padding: 2%;
+            padding-right:10% ;
+
+
+            width: 500px;
+            float: left;
+            font-size: 14px;
+
+            
+        }
+        .mentorshp{
+            width: 250px;
+            height: 300px;
+            border-radius: 5px;
+            margin-left: 30%;
+        
+        }
+        .born{
+            display: flex;
+        }
+        
+        a{
+            text-decoration: none;
+            color: black;
+            gap: 20%;
+            justify-content: space-between;
+            word-spacing: 10px;
+        }
+        
+        .born-a-crime-summary{
+            font-size: 20px;
+        }
+        
+        
+        .website{
+            display: flex;
+            height: 900px;
+
+            flex-wrap: wrap;
+          
+        }
+        .mentorship-session{
+            height: 650px;
+            width: 750px;
+
+            height: 250px;
+            width: 400px;
+            
+        
+        }
+        .mentor{
+            width: 500px;
+            height: 500px;
+          justify-content: center;
+          border-radius: 90%;
+          margin-top: 5px;
+          margin-left: 20%;
+
+
+
+          width: 200px;
+          height: 200px;
+          
+        
+        }
+        .ment{
+            text-align: center;
+            font-size: 40px;
+        }
+        .session{
+            width: 950px;
+            background-color:  rgb(238, 216, 235);
+            height: 900px;
+            margin-bottom: 2%;
+
+            height: 250px;
+         
+        }
+        .profile{
+        
+            height: 900px;
+            width: 900px;
+            background-color:white;
+            font-weight: 100;
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+            float: right;
+
+            height: 550px;
+
+            
+        
+        }
+        
+        .personal-details{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .personal{
+            font: 300;
+            font-weight: 100;
+            font-size: 25px;
+            text-emphasis-color: rgb(219, 25, 193);
+
+            font-size: 17px;
+        }
+        .logo{
+            width: 500px;
+            height: 500px;
+            margin-left: 90px;
+
+            width: 250px;
+            height: 250px;
+            margin-left: 70px;
+        }
+        .word{
+            font-size: 30px;
+            word-spacing: normal;
+            color: white;
+        }
+        
+        nav{
+            display: flex;
+            justify-content: space-between;
+            word-spacing: 5px;
+            background-color:white ;
+            font-size: 20px;
+            box-shadow: inset;
+            background-size: 30px;
+            border: #d136c4;
+            background-size: 20px;
+            margin-top: 10px;
+            
+        }
+        
+        
+        .prof{
+            width: 120px;
+            height: 120px;
+            margin-left: 35%;
+            margin-bottom: 30%;
+            padding-top: 20px;
+            margin-left: 20%;
+
+            height: 120px;
+            width: 80px;
+            margin-left: 10%;
+        }
+        
+        
+        
+          
+          #todo-app {
+            width: 80%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #d136c4;
+            border-radius: 16px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 90px;
+            height: 600px;
+            
+          }
+        
+          #todo-form input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            border: 2px solid #dfdada;
+            border-radius: 4px;
+            margin-right: 8px;
+          }
+          
+          #todo-form button {
+            padding: 10px 15px;
+            background-color: #ee7dd2;
+            color: rgb(158, 36, 36);
+            border: none;
+            border-radius: 9px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 20%;
+          }
+          
+          #todo-form button:hover {
+            background-color: #f5b0ec;
+           
+          }
+        
+          #todo-list {
+            list-style: none;
+            padding: 0;
+          }
+          
+          #todo-list li {
+            background-color: #f7eeee;
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+          }
+        
+          .goals{
+            display: flex;
+          }
+        
+        .novel{
+            margin-bottom: 30%;
+            padding-bottom: 50%;
+            margin-top: 20%;
+        }
+        
+        .footer{
+            width: 70%;
+            height: 60px;
+            background-color: #d136c4;
+            border-radius: 10px;
+        
+        }
+        
+        .information{
+            justify-content: center;
+            margin-left: 90px;
+            padding-left: 40%;
+            padding-bottom: 50%;
+
+
+            justify-content: flex-start;
+
+            padding-left: 60px;
+        }
+        .lowertext{
+            font-size: 30px;
+            justify-content: center;
+            text-align: center;
+        }
+        .topnav{
+            height: 80px;
+        }
+        .motivate{
+            text-align: center;
+            color: white;
+
+            font-size: 20px;
+        }
+        .tasks{
+            background-color: gray;
+          
+        }
+        .page{
+            background-color: gray;
+        }
+        .input{
+            width: 70%;
+            height: 30px;
+            border-color: #d46acc;
+            border-radius: 5px;
+
+
+        }
+        .slogan1{
+            font-size: 20px;
+            text-align: center;
+
+        }
+        h2{
+            font-size: 20px;
+       
+        }
+        .born{
+            font-size: 10px;
+        }
+        
+    
+
+     }
+
+     @media screen and ( min-width:896px ) and (max-width:1368px){
+
+        body{
+            display: block;
+            gap: 50px;
+            height: 1000px;
+           
+        }
+        button{
+           
+            border-radius: 5px;
+            width: 50%;
+            height: 10%;
+            background-color: rgb(240, 231, 231);
+        }
+        label{
+            display: grid;
+            gap: 40%;
+        }
+        .topnav {
+            background-color: #db3ace;
+            background-size: 15%;
+            height: 9%;
+            border-radius: 5px;
+            width: 1793px;
+            margin-left: 5px;
+            justify-content: space-around;
+
+
+            width: 396px;
+        
+        }
+        .topnav.a{
+            font-size: 20px;
+            margin-bottom: 35%;
+            display: flex;
+            justify-content: space-around;
+            margin-left: 10%;
+        
+        }
+        nav a{
+            margin-top: 2%;
+        }
+        
+        
+        
+        
+        .required{
+            width: 30%;
+            
+        }
+        .herotext{
+            display: flex;
+            word-spacing: 3px;
+
+            
+        }
+        .quote{
+            width: 1000px;
+            font-size: 25px;
+            background-color:  rgb(255,0,255) ;
+            height: 920px;
+            
+        
+        }
+        .details{
+            width: 900px;
+            font-size: 20px;
+            float: left;
+            justify-content: space-between;
+            justify-content: center;
+            padding: 2%;
+            padding-right:10% ;
+        }
+        .mentorshp{
+            width: 250px;
+            height: 300px;
+            border-radius: 5px;
+            margin-left: 30%;
+        
+        }
+        .born{
+            display: flex;
+        }
+        
+        a{
+            text-decoration: none;
+            color: black;
+            gap: 20%;
+            justify-content: space-between;
+            word-spacing: 10px;
+        }
+        
+        .born-a-crime-summary{
+            font-size: 20px;
+        }
+        
+        
+        .website{
+            display: flex;
+            height: 900px;
+
+            height: 50px;
+        }
+        .mentorship-session{
+            height: 650px;
+            width: 750px;
+
+
+            height: 350px;
+            width: 400px;
+            
+        
+        }
+        .mentor{
+            width: 500px;
+            height: 500px;
+          justify-content: center;
+          border-radius: 90%;
+          margin-top: 5px;
+          margin-left: 20%;
+
+
+          width: 300px;
+          height: 300px;
+          
+        
+        }
+        .ment{
+            text-align: center;
+            font-size: 40px;
+        }
+        .session{
+            width: 950px;
+            background-color:  rgb(238, 216, 235);
+            height: 900px;
+            margin-bottom: 2%;
+            height: 600px;
+           
+         
+        }
+        .profile{
+        
+            height: 900px;
+            width: 900px;
+            background-color:white;
+            font-weight: 100;
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+            float: right;
+
+            height: 650px;
+        
+        }
+        
+        .personal-details{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .personal{
+            font: 300;
+            font-weight: 100;
+            font-size: 25px;
+            text-emphasis-color: rgb(219, 25, 193);
+        
+            text-align: justify;
+
+            font-size: 20px;
+            
+        }
+        .logo{
+            width: 500px;
+            height: 500px;
+            margin-left: 90px;
+        }
+        .word{
+            font-size: 30px;
+            word-spacing: normal;
+            color: white;
+        }
+        
+        nav{
+            display: flex;
+            justify-content: space-between;
+            word-spacing: 5px;
+            background-color:white ;
+            font-size: 20px;
+            box-shadow: inset;
+            background-size: 30px;
+            border: #d136c4;
+            background-size: 20px;
+            margin-top: 10px;
+            
+        }
+        
+        
+        .prof{
+            width: 120px;
+            height: 120px;
+            margin-left: 35%;
+            margin-bottom: 30%;
+            padding-top: 20px;
+        }
+        
+        
+        
+          
+          #todo-app {
+            width: 80%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #d136c4;
+            border-radius: 16px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 90px;
+            height: 600px;
+
+
+
+            max-width: 400px;
+            height: 400px;
+            
+          }
+        
+          #todo-form input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            border: 2px solid #dfdada;
+            border-radius: 4px;
+            margin-right: 8px;
+
+
+            width: 40%;
+          }
+          
+          #todo-form button {
+            padding: 10px 15px;
+            background-color: #ee7dd2;
+            color: rgb(158, 36, 36);
+            border: none;
+            border-radius: 9px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 20%;
+          }
+          
+          #todo-form button:hover {
+            background-color: #f5b0ec;
+           
+          }
+        
+          #todo-list {
+            list-style: none;
+            padding: 0;
+          }
+          
+          #todo-list li {
+            background-color: #f7eeee;
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+          }
+        
+          .goals{
+            display: flex;
+          }
+        
+        .novel{
+            margin-bottom: 30%;
+            padding-bottom: 50%;
+            margin-top: 20%;
+        }
+        
+        .footer{
+            width: 70%;
+            height: 60px;
+            background-color: #d136c4;
+            border-radius: 10px;
+        
+        }
+        
+        .information{
+            justify-content: center;
+            margin-left: 90px;
+            padding-left: 40%;
+            padding-bottom: 50%;
+        }
+        .lowertext{
+            font-size: 30px;
+            justify-content: center;
+            text-align: center;
+        }
+        .topnav{
+            height: 80px;
+        }
+        .motivate{
+            text-align: center;
+            color: white;
+        }
+        .tasks{
+            background-color: gray;
+          
+        }
+        .page{
+            background-color: gray;
+        }
+        .input{
+            width: 70%;
+            height: 30px;
+            border-color: #d46acc;
+            border-radius: 5px;
+        }
+        
+        
+
+
+
+
+
+
+
+
+
+     }
+
+
+

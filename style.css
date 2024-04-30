@@ -74,6 +74,7 @@ nav a{
 }
 .born{
     display: flex;
+    background-color: #d136c4;
 }
 .novel{
     width: 550px;

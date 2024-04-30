@@ -23,6 +23,7 @@ label{
     width: 1793px;
     margin-left: 5px;
     justify-content: space-around;
+    color: white;
 
 }
 .topnav.a{
@@ -78,7 +79,7 @@ nav a{
 }
 .novel{
     width: 550px;
-    height: 600px;
+    height: 700px;
 }
 .nyj{
     width: 50px;

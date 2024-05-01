@@ -20,7 +20,7 @@ label{
     background-size: 15%;
     height: 9%;
     border-radius: 5px;
-    width: 1793px;
+    width: 1783px;
     margin-left: 5px;
     justify-content: space-around;
     color: white;
@@ -76,10 +76,12 @@ nav a{
 .born{
     display: flex;
     background-color: #d136c4;
+  
 }
 .novel{
     width: 550px;
     height: 700px;
+    
 }
 .nyj{
     width: 50px;
@@ -96,7 +98,8 @@ a{
 }
 
 .born-a-crime-summary{
-    font-size: 20px;
+    font-size: 17px;
+    margin-left: 3%;
 }
 
 
@@ -1062,6 +1065,9 @@ nav{
         label{
             display: grid;
             gap: 40%;
+        }
+        .summary{
+            border-radius: 5px;
         }
         .topnav {
             background-color: #f1b3ec;

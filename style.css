@@ -709,7 +709,7 @@ nav{
             display: flex;
             flex-wrap: wrap;
 
-            width: 400px;
+            width: 500px;
             background-size: 10%;
             flex-wrap: wrap;
             
@@ -782,6 +782,8 @@ nav{
         }
         .born{
             display: flex;
+
+            height: 700px;
         }
         
         a{
@@ -1062,7 +1064,7 @@ nav{
             gap: 40%;
         }
         .topnav {
-            background-color: #db3ace;
+            background-color: #f1b3ec;
             background-size: 15%;
             height: 9%;
             border-radius: 5px;
@@ -1071,7 +1073,7 @@ nav{
             justify-content: space-around;
 
 
-            width: 396px;
+            width: 1000px;
         
         }
         .topnav.a{
@@ -1211,6 +1213,10 @@ nav{
 
             font-size: 20px;
             
+        }
+        .novel{
+            width: 200px;
+            height: 300px;
         }
         .logo{
             width: 500px;
